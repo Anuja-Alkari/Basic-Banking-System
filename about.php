@@ -16,13 +16,13 @@
 }
 
 .bank2-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/hb5.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/hb7.jpg");
   height: 700px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  opacity: 0.6;
+  opacity: 0.7;
 }
 
 .bank2-text {
